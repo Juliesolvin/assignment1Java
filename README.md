@@ -1,5 +1,7 @@
 # assignment1Java
 
+By Julie Solvin Jacobsen
+
 README for RPG game - Assignment 1 in Java, Experis Academy
 
 This project consists of 4 packages: Attributes, Exceptions, game and Heros. 
